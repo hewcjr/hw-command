@@ -1,0 +1,11 @@
+{
+	"id": "hw-command",
+	"name": "HW Command Scripts",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A framework for custom scripts accessible via Obsidian command palette, including Reddit post parsing and other utilities.",
+	"author": "HW",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
